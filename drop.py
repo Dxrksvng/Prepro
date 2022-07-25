@@ -1,6 +1,6 @@
 """Drop drop"""
 def main():
-    """Drop drop"""
+    """Drop drop1"""
     grade = float(input())
     if grade < 1.00:
         print("I'm so sad.")
